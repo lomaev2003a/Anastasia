@@ -1,0 +1,66 @@
+body {
+    color: whitesmoke;
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
+    background-color: #0B1015;
+}
+h1 {
+    font-size: 25px;
+    font-family: 'Rubik', sans-serif;
+    margin: 0px;
+}
+p {
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    margin: 0px;
+}
+input {
+    color: azure;
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    background-color: black;
+}
+button {
+    color: azure;
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    background-color: black;
+}
+
+/* finish default styles */
+
+.forma_site {
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+}
+.shapka {
+    height: 60px;
+    width: 100%;
+    background-color: red;
+}
+.cn {
+    display: table-cell;
+    width: 500px;
+    height: 500px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: rgb(255, 0, 179);
+  }
+  
+  .inner {
+    display: inline-block;
+    width: 200px; height: 200px;
+    background-color: aqua;
+  }
